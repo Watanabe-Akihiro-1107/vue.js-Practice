@@ -8,6 +8,6 @@ const app = new Vue({
     };
   }
 });
-
 // appのtext要素を文字列で書き換えている。
 app.text = 'goodbye';
+// test
